@@ -1,7 +1,9 @@
 # AHA Programming
-- AHA stands for Avoid Hasty Abstractions
-- Sendi Metz: "prefer duplication over the wrong abstraction"
-- Related to to KISS: keep it simple stupid.
+- AHA stands for Avoid Hasty Abstraction
+- Write the abstraction when it feels right and don't be afraid to duplicate code until you get there.
+- Sendi Metz: "prefer duplication over the wrong abstraction".
+- Related to to KISS and Optimize for Change.
+- Pushes back against the DRY and WET principle. 
 
 # Optimize for change
 - Optimize for change first, only then optimize code for performance or absctraction.
