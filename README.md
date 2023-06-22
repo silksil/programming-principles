@@ -10,4 +10,4 @@
 
 # Execute, then consider
 - Execute something that is good, but not perfect. Evaluate how it works and then make changes.
-- Prevents analysis paralysis, 
+- Prevents analysis paralysis. 
